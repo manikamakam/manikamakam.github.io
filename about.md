@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Team 
+permalink: /team/
 ---
 
-Some information about you!
+## Sri Manika Makam
+[smakam@umd.edu](mailto:smakam@umd.edu)
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+## Pradeep Gopal
+[pradeepg@umd.edu](mailto:pradeepg@umd.edu)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
